@@ -1,6 +1,6 @@
 {
   "name": "sqlitemap",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "sqlitemap — Persistent Map Backed by SQLite",
   "homepage": "https://github.com/bw-hro/sqlitemap",
   "license": "MIT",
